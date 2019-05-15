@@ -106,3 +106,7 @@ venv
 
 ### robot framework ###
 robot-int-test/output
+
+### google photo api ###
+credentials*
+download
